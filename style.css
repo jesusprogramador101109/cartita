@@ -95,3 +95,74 @@ body {
   opacity: 0.7;
 }
 
+/* Ajustes responsivos para móviles */
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  .contenedor {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  button {
+    width: 100%;
+    font-size: 16px;
+    padding: 12px;
+  }
+
+  .pastel {
+    width: 90%;
+    max-width: 250px;
+  }
+
+  .tarjeta {
+    font-size: 16px;
+    padding: 15px;
+    margin-top: 15px;
+  }
+
+  footer {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+  }
+}
+
+/* Ajustes responsivos para móviles */
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  .contenedor {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  button {
+    width: 100%;
+    font-size: 16px;
+    padding: 12px;
+  }
+
+  .pastel {
+    width: 90%;
+    max-width: 250px;
+  }
+
+  .tarjeta {
+    font-size: 16px;
+    padding: 15px;
+    margin-top: 15px;
+  }
+
+  footer {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+  }
+}
